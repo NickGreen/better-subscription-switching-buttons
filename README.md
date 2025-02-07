@@ -12,7 +12,7 @@ Currently only works with grouped products.
 
 1. Upload the plugin files to the `/wp-content/plugins/better-subscription-switching-buttons` directory, or install the plugin through the WordPress plugins screen directly.
 2. Activate the plugin through the 'Plugins' screen in WordPress
-3. No configuration needed - the plugin will automatically enhance override the grouped product template during a switch
+3. No configuration needed - the plugin will automatically override the grouped product template during a switch
 
 ## Usage
 
