@@ -1,0 +1,67 @@
+.bssb-current-plan-notice {
+	margin-bottom: 2em;
+	padding: 1em;
+	background: #f8f8f8;
+	border-left: 4px solid #007cba;
+}
+
+.bssb-table-header {
+	margin-bottom: 1em;
+}
+
+/* Table styles */
+.woocommerce-grouped-product-list {
+	background: #fff;
+	padding: 20px 27px;
+	font-size: 20px;
+	width: 100%;
+	border: 1px solid #f1f1f1;
+	color: #a5a5a5;
+	border-collapse: collapse;
+}
+
+.woocommerce-grouped-product-list td {
+	padding: 15px;
+	border-bottom: 1px solid #f1f1f1;
+}
+
+.woocommerce-grouped-product-list tr:last-child td {
+	border-bottom: none;
+}
+
+.woocommerce-grouped-product-list-item__button {
+	text-align: right;
+}
+
+/* Button styles */
+.bssb-button-current,
+.bssb-button-switch {
+	display: inline-block;
+	padding: 10px 20px;
+	border-radius: 5px;
+	text-decoration: none;
+	transition: all 0.3s ease;
+}
+
+.bssb-button-current {
+	background: #f1f1f1;
+	color: #a5a5a5;
+	opacity: 0.5;
+	cursor: not-allowed;
+	pointer-events: none;
+}
+
+.bssb-button-switch {
+	background: #007cba;
+	color: #fff;
+}
+
+.bssb-button-switch:hover {
+	background: #006ba1;
+	opacity: 0.9;
+}
+
+/* Hide price column since it's now in the button */
+.woocommerce-grouped-product-list-item__price {
+	display: none;
+}
