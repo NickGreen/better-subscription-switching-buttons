@@ -21,4 +21,5 @@ Currently only works with grouped products.
 3. The plugin will automatically display the enhanced switching interface on the product page for logged-in users with active subscriptions
 
 ## Screenshots
+<img width="866" alt="Screenshot 2025-02-07 at 13 43 56" src="https://github.com/user-attachments/assets/a3f780e4-caf9-441f-9e4f-c1fd36b9c9b6" />
 
